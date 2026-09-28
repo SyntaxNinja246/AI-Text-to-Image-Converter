@@ -1,0 +1,8 @@
+COCO 2017 VALIDATION DATASET ANALYSIS
+========================================
+
+Images: 5000
+Captions: 25014
+Categories: 80
+
+This analysis was generated from the downloaded COCO 2017 validation subset.

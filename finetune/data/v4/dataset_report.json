@@ -1,0 +1,73 @@
+{
+  "total_coco_images_considered": 5000,
+  "total_captions_considered": 25014,
+  "unique_images_available": 5000,
+  "captions_rejected": 167,
+  "selected_records": 1500,
+  "unique_selected_images": 1500,
+  "empty_caption_count": 0,
+  "very_short_caption_count": 0,
+  "duplicate_image_count": 0,
+  "duplicate_caption_count": 0,
+  "caption_length_statistics": {
+    "min_words": 8,
+    "max_words": 38,
+    "mean_words": 11.54,
+    "median_words": 11.0,
+    "min_characters": 34,
+    "max_characters": 208,
+    "mean_characters": 58.49,
+    "median_characters": 56.0
+  },
+  "category_distribution": {
+    "by_supercategory": {
+      "person": 854,
+      "furniture": 513,
+      "kitchen": 418,
+      "vehicle": 315,
+      "accessory": 295,
+      "electronic": 272,
+      "food": 270,
+      "indoor": 260,
+      "animal": 240,
+      "sports": 229,
+      "outdoor": 209,
+      "appliance": 189
+    },
+    "top_25_categories": {
+      "person": 854,
+      "chair": 250,
+      "dining table": 224,
+      "bottle": 190,
+      "cup": 189,
+      "car": 166,
+      "bowl": 134,
+      "handbag": 127,
+      "book": 110,
+      "sink": 110,
+      "bench": 104,
+      "backpack": 102,
+      "cell phone": 101,
+      "tv": 90,
+      "laptop": 90,
+      "clock": 87,
+      "knife": 86,
+      "couch": 84,
+      "potted plant": 74,
+      "truck": 74,
+      "oven": 72,
+      "refrigerator": 69,
+      "spoon": 68,
+      "umbrella": 66,
+      "fork": 64
+    },
+    "total_categories_represented": 80
+  },
+  "random_seed": 42,
+  "status_confirmation": {
+    "selected_records": 1500,
+    "unique_images": 1500,
+    "empty_captions": 0,
+    "all_local_images_verified": true
+  }
+}

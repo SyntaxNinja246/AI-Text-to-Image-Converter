@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated images
+generated_images/
+output.png
+
+# Model files
+*.safetensors
+*.ckpt
+*.pth
+*.bin
+
+# Hugging Face / model cache
+.cache/
+huggingface/
+transformers_cache/
+
+# Large datasets
+dataset/images/
+dataset/annotations/
+
+# Large embeddings
+*.npy
+
+# Training outputs
+finetune/outputs/
+finetune/models/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS
+Thumbs.db
+.DS_Store

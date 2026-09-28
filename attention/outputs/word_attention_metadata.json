@@ -1,0 +1,20 @@
+{
+    "prompt": "a red car beside a blue house",
+    "token_positions": {
+        "red": 2,
+        "car": 3,
+        "blue": 6,
+        "house": 7
+    },
+    "attention_shape": [
+        5,
+        2,
+        8,
+        1024,
+        77
+    ],
+    "averaging": {
+        "diffusion_steps": true,
+        "attention_heads": true
+    }
+}

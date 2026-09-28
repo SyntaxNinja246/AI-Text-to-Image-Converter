@@ -1,0 +1,13 @@
+{
+  "model": "segmind/tiny-sd",
+  "device": "cpu",
+  "number_of_records": 25014,
+  "embedding_shape": [
+    25014,
+    77,
+    768
+  ],
+  "embedding_dtype": "float16",
+  "sequence_length": 77,
+  "embedding_dimension": 768
+}

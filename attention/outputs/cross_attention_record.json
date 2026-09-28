@@ -1,0 +1,68 @@
+{
+    "model": "segmind/tiny-sd",
+    "prompt": "a red car beside a blue house",
+    "attention_layer": "down_blocks.0.attentions.0.transformer_blocks.0.attn2.processor",
+    "number_of_recorded_calls": 5,
+    "records": [
+        {
+            "hidden_states_shape": [
+                2,
+                1024,
+                320
+            ],
+            "encoder_hidden_states_shape": [
+                2,
+                77,
+                768
+            ]
+        },
+        {
+            "hidden_states_shape": [
+                2,
+                1024,
+                320
+            ],
+            "encoder_hidden_states_shape": [
+                2,
+                77,
+                768
+            ]
+        },
+        {
+            "hidden_states_shape": [
+                2,
+                1024,
+                320
+            ],
+            "encoder_hidden_states_shape": [
+                2,
+                77,
+                768
+            ]
+        },
+        {
+            "hidden_states_shape": [
+                2,
+                1024,
+                320
+            ],
+            "encoder_hidden_states_shape": [
+                2,
+                77,
+                768
+            ]
+        },
+        {
+            "hidden_states_shape": [
+                2,
+                1024,
+                320
+            ],
+            "encoder_hidden_states_shape": [
+                2,
+                77,
+                768
+            ]
+        }
+    ]
+}

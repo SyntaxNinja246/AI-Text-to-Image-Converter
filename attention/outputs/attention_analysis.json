@@ -1,0 +1,19 @@
+{
+    "model": "segmind/tiny-sd",
+    "device": "cpu",
+    "total_attention_processors": 18,
+    "self_attention_processors": 9,
+    "cross_attention_processors": 9,
+    "cross_attention_layers": [
+        "down_blocks.0.attentions.0.transformer_blocks.0.attn2.processor",
+        "down_blocks.1.attentions.0.transformer_blocks.0.attn2.processor",
+        "down_blocks.2.attentions.0.transformer_blocks.0.attn2.processor",
+        "up_blocks.0.attentions.0.transformer_blocks.0.attn2.processor",
+        "up_blocks.0.attentions.1.transformer_blocks.0.attn2.processor",
+        "up_blocks.1.attentions.0.transformer_blocks.0.attn2.processor",
+        "up_blocks.1.attentions.1.transformer_blocks.0.attn2.processor",
+        "up_blocks.2.attentions.0.transformer_blocks.0.attn2.processor",
+        "up_blocks.2.attentions.1.transformer_blocks.0.attn2.processor"
+    ],
+    "attention_processor_type": "AttnProcessor2_0"
+}

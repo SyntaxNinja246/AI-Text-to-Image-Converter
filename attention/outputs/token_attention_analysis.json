@@ -1,0 +1,13 @@
+{
+    "model": "segmind/tiny-sd",
+    "prompt": "a red car beside a blue house",
+    "selected_layer": "down_blocks.0.attentions.0.transformer_blocks.0.attn2.processor",
+    "number_of_attention_maps": 5,
+    "first_attention_map_shape": [
+        2,
+        8,
+        1024,
+        77
+    ],
+    "description": "Cross-attention probabilities between image features and text conditioning."
+}
